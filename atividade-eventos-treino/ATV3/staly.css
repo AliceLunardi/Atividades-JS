@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+    transition: 0.5s;
+}
+
+body a{
+    font-size: 3vh;
+    margin-left: 3vh;
+    color: black;
+}
